@@ -276,8 +276,8 @@
     "ImportedKeyPair": {
         "Type": "AWS::EC2::KeyPair",
         "Properties": {
-            "KeyName": "user30-key",
-            "PublicKeyMaterial": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOgXFAewwrk7cNlvZUUSEuFc6Eq2aDINaTMOQsrzK+RQikCflngYmR7vaRU+VgP2IiEGBbymoyxYvqUbNKxhPQi/IAAgkvVBYbjMHqQ7dCvDFbEemvjlCY5faSYIwXC5CDfbvyio4AqXmBxACf9TZGEZa4Nd2eJP4mI0l4EysYGKyHvcN/VsiGovovtcMR74grH6JDjewjtgj8gqYuf6rpPWhsbbctDZmqVe97UjTXY+K6bsKjNwPNm33wCOepxzPg5w5MyzR6j8HKbHKKKyPlsFW0q1d0AXALhNIuCqGt+x3/EjTCIghtVBpGEZIeZ+rLQvQ3ZviwUOFfCyb7x/Rf root@ip-172-31-42-143.ap-northeast-2.compute.internal"
+            "KeyName": "user40-key",
+            "PublicKeyMaterial": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDXdhNp/71cdfrbzQj5yLG5K8DBKh5WqMJuzYbm9B46yuh90lkNpKkwEp2AFOlacK5LDBXfjLsd34/FuMD2BvRzUZ2IGd3+UZQzzXgmxFwYE/jMgyvdyesq+a0S5UNADYJgrqmyhlS0tATFogDAfmee3FDJjDcGZTbRQR2i50ZC3SXQv7R5YWBgHjDABWohEtVzjAJi7dk4Y8dAIeXZD2PlRDJmDVRRY3+T3r+/y/e/CdcwqiAUk/p1zpJpjh6V7HbPipuOcaWgf6M9bTHz59Qkgc5XmRUCGFTBgW7TwEHDx5ReQkkh+JLffpDNbgJAJp8LlnQZe8BtxpGszWmNx9FP ec2-user@ip-172-31-49-234.ap-northeast-2.compute.internal"
         }
     },
     "DevWebApp01" : {
